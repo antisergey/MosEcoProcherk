@@ -1,0 +1,119 @@
+@media (max-width: 1550px) {
+    .main-top-menu ul li {
+        margin-right: 30px;
+    }
+    .full-height-content {
+        padding-left: 100px;
+    }
+    .air-block {
+        margin-right: 20px;
+        min-width: 145px;
+    }
+    .wrap-content {
+        margin-top: 25px;
+    }
+    .big-title {
+        margin: 40px 0;
+        line-height: 1;
+    }
+    .big-title h1 {
+        font-size: 60px;
+    }
+    .articles-content {
+        margin-top: 10px;
+    }
+    .pdf-block {
+        line-height: 1.5;
+    }
+    .inf-weather {
+        margin-top: 10px;
+    }
+    .item-block {
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    .item-type span.titel-type {
+        height: 40px;
+        display: block;
+    }
+    .text-monitoring {
+        width: 770px;
+    }
+    .number-weather {
+        font-size: 30px;
+    }
+    .system-block:first-child {
+        margin-right: 30px;
+    }
+    .system-block {
+        width: 400px;
+    }
+    span.system-text {
+        font-size: 16px;
+    }
+    .item-bottom {
+        margin-top: 30px;
+    }
+}
+@media (max-width: 1350px) {
+    .img-pop, .title-pop, .price-pop {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .self-pop:after {
+        content: "";
+        clear: both;
+        display: block;
+    }
+    .continue-buy {
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    .full-height-content, .air-content {
+        padding-left: 66px;
+        padding-top: 22px;
+    }
+    /* .left-inner-content {
+        width: 75%;
+    } */
+    .air-block {
+        margin-right: 20px;
+        min-width: 125px;
+    }
+    .main-top-menu ul li {
+        margin-right: 20px;
+    }
+    section.sidebar-block {
+        width: 280px;
+        padding: 50px 0 0 50px;
+    }
+    section.main-content {
+        left: 280px;
+    }
+    .pdf-block {
+        /* width: 400px; */
+        margin-right: 35px;
+    }
+    .inter-map img {
+        width: 110%;
+        display: block;
+    }
+    .inter-map a span {
+        top: 50px;
+
+    }
+    .system-block {
+        width: 380px;
+    }
+    .title-video {
+        font-size: 16px;
+    }
+    .item-type span.total-type {
+        padding-left: 0;
+        font-size: 36px;
+    }
+    .pdf-block {
+        width: 400px;
+    }
+}

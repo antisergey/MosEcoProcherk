@@ -1,0 +1,180 @@
+@media (max-width: 1750px) {
+    .about-gpbu-small {
+        font-size: 24px;
+    }
+    .about-title h1 {
+        font-size: 40px;
+    }
+    .sub-about-tit {
+         font-size: 18px;
+    }
+    .avatar-user {
+        margin-bottom: 35px;
+    }
+    .about-slider-content {
+        /* width: 25%; */
+    }
+    .bottom-content-main {
+        margin-top: 100px;
+    }
+    .big-title h1 {
+        font-size: 76px;
+        line-height: 76px;
+    }
+
+    .chart-header .big-title {
+        margin-bottom: 15px;
+    }
+
+    .doklad-za-god span {
+        font-size: 30px;
+    }
+
+    .doklad-za-god img {
+        height: 40px;
+    }
+    .sub-doklad {
+        width: 100%;
+    }
+    .chart-header {
+        /* width: 70%; */
+    }
+    .news-item h2.title-news a {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+ .inf-weather span+.number-weather {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 30px;
+} 
+    .inf-weather {
+    margin-top: 18px;
+}
+/*  .inf-weather .number-weather span {
+    font-size: 14px;
+    display: inline-block;
+    opacity: 1;
+    line-height: 14px;
+}
+    */
+    .inf-weather p {
+        margin-bottom: 0px;
+            margin-top: 0px;
+    } 
+    .inf-weather p + div + p{
+        margin-top: 0px;
+    }
+}
+@media (max-width: 1550px) {
+    .about-gpbu-small {
+        font-size: 18px;
+    }
+
+    .about-title h1 {
+        font-size: 34px;
+    }
+    .bottom-content-main {
+        margin-top: 60px;
+    }
+    .about-slider-content {
+        /* width: 29%; */
+    }
+    .air-content {
+        padding: 50px 50px 50px 90px;
+    }
+    .page-stan-content {
+        padding: 50px 50px 50px 90px !important;
+    }
+    .info-ch {
+        padding: 0 10px;
+    }
+    .big-title h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .big-title br {
+        display: none;
+    }
+    
+    .pdf-block {
+        /* width: 400px; */
+        margin-right: 0px;
+    }
+    .wrap-content {
+        margin-top: 15px;
+    }
+    .envelope-block .text-vacancy {
+        width: 100%;
+    }
+    .avatar-user {
+        margin-bottom: 22px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .about-gpbu-small {
+        font-size: 16px;
+    }
+
+    .air-content {
+        padding: 50px;
+    }
+    .bottom-content-main {
+        margin-top: 15px;
+    }
+    .col-4 {
+        padding-right: 10px;
+    }
+}
+
+@media (min-width: 1366px) {
+    .items-type {
+        min-height: 320px;
+    }
+}
+
+@media (min-width: 1600px) {
+    .video-teaser {
+        min-height: 300px;
+    }
+
+    .inter-map {
+        bottom: 10px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .video-teaser {
+        min-height: 350px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .wrap-content .about-content .bottom-content-main {
+        display: inline-block;
+        width: 100%;
+        margin-top: 30px;
+        position: absolute;
+        bottom: -75px;
+        left: 0;
+    }
+
+    .inter-map {
+        transform: scale(0.75);
+        transform-origin: 100%;
+    }
+}
+
+@media (max-width: 1279px) {
+    .big-title {
+        margin: 20px 0;
+        line-height: 1;
+    }
+
+    .slider-home {
+        width: 320px;
+    }
+}
